@@ -1,20 +1,20 @@
 - name: Order Lunch
-  link: /
+  link: /lunch/
   new_window: false
   highlight: false
 - name: Order Meal Kits
-  link: /
+  link: /meal-kit/
   new_window: false
   highlight: false
-- name: Schedule Personal ChefS
-  link: /
+- name: Schedule a Personal Chef
+  link: /personal-chef/
   new_window: false
   highlight: false
 - name: Our Story
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: Contact us
   link: /contact/
   new_window: false
-  highlight: false
+  highlight: falseS
