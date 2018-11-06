@@ -1,4 +1,12 @@
-- name: Products
+- name: Order Lunch
+  link: /
+  new_window: false
+  highlight: false
+- name: Order Meal Kits
+  link: /
+  new_window: false
+  highlight: false
+- name: Schedule Personal ChefS
   link: /
   new_window: false
   highlight: false
